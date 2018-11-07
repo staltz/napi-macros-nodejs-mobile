@@ -1,18 +1,18 @@
 {
-  "name": "napi-macros",
-  "version": "1.8.1",
+  "name": "napi-macros-nodejs-mobile",
+  "version": "1.8.1-0",
   "description": "Set of utility macros to make writing N-API modules a little easier.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/napi-macros.git"
+    "url": "https://github.com/staltz/napi-macros-nodejs-mobile.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Andre Staltz (@staltz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/napi-macros/issues"
+    "url": "https://github.com/staltz/napi-macros-nodejs-mobile/issues"
   },
-  "homepage": "https://github.com/mafintosh/napi-macros"
+  "homepage": "https://github.com/staltz/napi-macros-nodejs-mobile"
 }
